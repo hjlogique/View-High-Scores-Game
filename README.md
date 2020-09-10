@@ -25,9 +25,17 @@ with a list of all players and their scores is displayed. Here
 Players can clear the list and also replay the game. 
 
 ```
-[Link to the View High Scores Game application](https://hjlogique.github.io/gw_bc_hw3/)
+[Link to the View High Scores Game application](https://hjlogique.github.io/gw_bc_hw4/)
 <br/><br/>
-![View High Scores Game application screenshot](/screenshot/password_generator_screenshot.png)
+![View High Scores Game application screenshot](/screenshots/image1.png)
+<br/><br/>
+![View High Scores Game application screenshot](/screenshots/image2.png)
+<br/><br/>
+![View High Scores Game application screenshot](/screenshots/image3.png)
+<br/><br/>
+![View High Scores Game application screenshot](/screenshots/image4.png)
+<br/><br/>
+![View High Scores Game application screenshot](/screenshots/image5.png)
 
 ```
 In this assignment I accomplished the followings:
