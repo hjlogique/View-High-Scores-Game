@@ -9,6 +9,7 @@ License: MIT
 [Link to my GitHub Profile](https://github.com/hjlogique)
 <br/>
 [Link to the View High Scores Game application](https://hjlogique.github.io/View-High-Scores-Game/)
+
 ```
 The “View High Scores Game” is a timed online quiz application. 
 Players select the "Start" button to start the game. Next they
