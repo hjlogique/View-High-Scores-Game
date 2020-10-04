@@ -30,7 +30,8 @@ Note: The first screenshot below displays the cover page of the
 application. The second screenshot displays one of the quiz 
 questions and the related answers. In the third screenshot all 
 questions has been answered and the score is displayed. Here the 
-bpth player's name and score are saved.
+bpth player's name and score are saved. The forth screenshot 
+displays the list of all players and their scores.
 
 ```
 ![View High Scores Game application screenshot](/screenshots/image1.png)
