@@ -26,6 +26,9 @@ button, players' scores are saved. Then the Players Score page
 with a list of all players and their scores is displayed. Here
 Players can clear the list and also replay the game. 
 
+Note: The first screenshot below displays the cover page of the
+application.
+
 ```
 ![View High Scores Game application screenshot](/screenshots/image1.png)
 <br/><br/>
