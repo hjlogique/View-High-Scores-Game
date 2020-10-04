@@ -1,4 +1,3 @@
-# gw_bc_hw4
 
 ```
 GW CODING BOOTCAMP
