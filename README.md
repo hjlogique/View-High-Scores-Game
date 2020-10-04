@@ -5,8 +5,9 @@ Application: View High Scores Game (Web APIs)
 By HENRY JEAN LOGIQUE
 Used technologies: HTML, CSS, JavaScript, Bootstrap framework
 License: MIT
-
 ```
+[Link to my GitHub Profile](https://github.com/hjlogique)
+<br/>
 ```
 The “View High Scores Game” is a timed online quiz application. 
 Players select the "Start" button to start the game. Next they
