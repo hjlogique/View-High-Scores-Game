@@ -1,10 +1,8 @@
 
 ```
 GW CODING BOOTCAMP
-HOMEWORK 4: View High Scores Game - Web APIs: Code Game Application   
-Due date: Saturday, 09/09/20 Midnight Eastern Time (ET)
-Student: HENRY JEAN LOGIQUE
-Subject: Password Generator Application
+Application: View High Scores Game (Web APIs: Code Game Application)   
+By HENRY JEAN LOGIQUE
 
 ```
 ```
