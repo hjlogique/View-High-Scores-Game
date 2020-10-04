@@ -1,7 +1,7 @@
 
 ```
 GW CODING BOOTCAMP
-Application: View High Scores Game (Web APIs: Code Game Application)   
+Application: View High Scores Game (Web APIs)   
 By HENRY JEAN LOGIQUE
 Used technologies: HTML, CSS, JavaScript, Bootstrap framework
 License: MIT
