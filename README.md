@@ -27,7 +27,8 @@ with a list of all players and their scores is displayed. Here
 Players can clear the list and also replay the game. 
 
 Note: The first screenshot below displays the cover page of the
-application.
+application. The second screenshot displays one of the quiz 
+questions and answers.
 
 ```
 ![View High Scores Game application screenshot](/screenshots/image1.png)
