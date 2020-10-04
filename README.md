@@ -38,7 +38,7 @@ Players can clear the list and also replay the game.
 ![View High Scores Game application screenshot](/screenshots/image5.png)
 
 ```
-In this assignment I accomplished the followings:
+I accomplished the followings:
 
 - Created an application that generates questions, answers, and other 
   HTML elements, and stylized them dynamically through JavaScript.  
