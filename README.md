@@ -33,8 +33,8 @@ questions were already answered and the score is displayed. Here
 both player's name and score are saved. The forth screenshot 
 displays the list of all players and their scores. Here players 
 can compare their scores and the winner with the highest score
-is selected. In the fifth screenshot once the Clear button is 
-selected, the list of players is emptied.
+is selected. In the fifth screenshot once the Clear Scores 
+button is selected, the list of players is emptied.
 
 ```
 ![View High Scores Game application screenshot](/screenshots/image1.png)
