@@ -29,10 +29,12 @@ Players can clear the list and also replay the game.
 Note: The first screenshot below displays the cover page of the
 application. The second screenshot displays one of the quiz 
 questions and the related answers. In the third screenshot all 
-questions has been answered and the score is displayed. Here the 
-bpth player's name and score are saved. The forth screenshot 
+questions were already answered and the score is displayed. Here 
+both player's name and score are saved. The forth screenshot 
 displays the list of all players and their scores. Here players 
 can compare their scores and the winner has the highest score.
+In the fifth screenshot once the Clear button is selected, the
+list of players is emptied.
 
 ```
 ![View High Scores Game application screenshot](/screenshots/image1.png)
