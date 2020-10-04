@@ -31,7 +31,8 @@ application. The second screenshot displays one of the quiz
 questions and the related answers. In the third screenshot all 
 questions has been answered and the score is displayed. Here the 
 bpth player's name and score are saved. The forth screenshot 
-displays the list of all players and their scores.
+displays the list of all players and their scores. Here players 
+can compare their scores and the winner has the highest score.
 
 ```
 ![View High Scores Game application screenshot](/screenshots/image1.png)
